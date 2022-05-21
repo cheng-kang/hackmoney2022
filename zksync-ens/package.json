@@ -1,0 +1,22 @@
+{
+  "name": "zksync-ens-resolver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/peepsonl/zksync-ens-resolver.git",
+  "author": "程康 <me@chengkang.pw>",
+  "license": "MIT",
+  "devDependencies": {
+    "@matterlabs/hardhat-zksync-deploy": "^0.1.5",
+    "@matterlabs/hardhat-zksync-solc": "^0.3.2",
+    "@poanet/solidity-flattener": "^3.0.7",
+    "ethers": "^5.6.5",
+    "hardhat": "^2.9.5",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4",
+    "zksync-web3": "^0.4.0"
+  },
+  "dependencies": {
+    "@ensdomains/ens-contracts": "^0.0.11",
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
