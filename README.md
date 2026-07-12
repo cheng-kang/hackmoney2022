@@ -30,3 +30,5 @@ Any ENS second-level domain (e.g. pps.eth) owners can choose to migrate into the
 ## Demo
 
 For demo purpose, we've migrated `pps.eth` to `L1 Offchain Resolver`. We've also set a few ENS records with `L2 Public Resolver` for `3n4.pps.eth`. You can check the records live on: https://app.ens.domains/name/3n4.pps.eth/details
+
+HackMoney Project page: https://web.archive.org/web/20220703203406/https://showcase.ethglobal.com/hackmoney2022/ens-l2-support-zksync-demo-zoqbi
