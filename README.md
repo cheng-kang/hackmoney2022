@@ -1,5 +1,8 @@
 # ENS Layer2 Support - hackmoney2022
 
+> 🥇 HackMoney 2020 - zkSync Best Application Prize
+> [![](./assets/screenshot.JPG)](https://www.youtube.com/watch?v=qofwvd3l7pw&t=1294s)
+
 This project implements ENS Layer2 Support outlined in [ENS Layer2 and offchain data support](https://docs.ens.domains/dapp-developer-guide/ens-l2-offchain) with [zkSync](https://zksync.io/).
 
 L1 contract is deployed on [Görli Testnet](https://goerli.net/). Gateway is hosted with GCP. L2 contracts are deployed on [zkSync v2.0](https://v2-docs.zksync.io/dev/testnet/metamask.html).
@@ -19,4 +22,3 @@ Any ENS second-level domain (e.g. pps.eth) owners can choose to migrate into the
 ## Demo
 
 For demo purpose, we've migrated `pps.eth` to `L1 Offchain Resolver`. We've also set a few ENS records with `L2 Public Resolver` for `3n4.pps.eth`. You can check the records live on: https://app.ens.domains/name/3n4.pps.eth/details
- 
