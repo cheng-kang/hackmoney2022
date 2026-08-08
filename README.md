@@ -2,6 +2,7 @@
 
 > 🥇 HackMoney 2020 - zkSync Best Application Prize
 > [![](./assets/screenshot.JPG)](https://www.youtube.com/watch?v=qofwvd3l7pw&t=1294s)
+> HackMoney Project page: https://ethglobal.com/showcase/ens-l2-support-zksync-demo-zoqbi
 
 ## Description
 
@@ -31,4 +32,3 @@ Any ENS second-level domain (e.g. pps.eth) owners can choose to migrate into the
 
 For demo purpose, we've migrated `pps.eth` to `L1 Offchain Resolver`. We've also set a few ENS records with `L2 Public Resolver` for `3n4.pps.eth`. You can check the records live on: https://app.ens.domains/name/3n4.pps.eth/details
 
-HackMoney Project page: https://ethglobal.com/showcase/ens-l2-support-zksync-demo-zoqbi
